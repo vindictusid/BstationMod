@@ -182,6 +182,13 @@
     "allowOffline": true
   },
   {
+    "id": "dbf450b56e5754b8",
+    "username": "yoga",
+    "password": "bstation",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
