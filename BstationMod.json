@@ -595,6 +595,13 @@
     "allowOffline": true
   },
   {
+    "id": "39dab9a4b7c3362a",
+    "username": "6282113606468",
+    "password": "bstation",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
